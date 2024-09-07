@@ -16,7 +16,7 @@ This is a simple HWID (Hardware ID) Checker program for Windows. It collects and
 
 2. **Run the Program**:
    - Double-click the executable file to run it.
-   - When prompted, enter the key `free` to gain access to additional features.
+   - When prompted, enter the key ```free``` to gain access to additional features.
    - If the key is correct, the program will open a specific URL in your default web browser.
    - The program will then display hardware information.
 
