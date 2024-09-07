@@ -1,53 +1,41 @@
 # HWID Checker
 
-## Overview
-
-HWID Checker is a utility for retrieving and displaying detailed hardware information from your system. It provides insights into various hardware components including disk drives, CPU, BIOS, motherboard, and more.
-
-## Important Notice
-
-**HWID Checker is not a virus.** This executable file is safe and designed to perform specific tasks related to hardware information gathering. It has been created with transparency and security in mind.
+This is a simple HWID (Hardware ID) Checker program for Windows. It collects and displays various hardware information, including MAC addresses, and allows access based on a key input.
 
 ## Features
 
-- Displays detailed hardware information:
-  - Disk drives
-  - CPU
-  - BIOS
-  - Motherboard
-  - smBIOS UUID
-  - MAC Address
-- Validates access via a specific key.
-- Opens a predefined Discord link upon successful key validation.
+- Displays hardware information such as Disk Drive, CPU, BIOS, Motherboard, smBIOS UUID, and MAC Addresses.
+- Allows access to additional information only if the correct key is entered.
+- Opens a URL in the default web browser upon successful key entry.
+- Displays MAC addresses, excluding those that start with `00`.
 
-## How to Use
+## Usage
 
-1. **Download the Executable**: Ensure you download the file from a trusted source.
+1. **Download the Executable**:
+   - Download the precompiled executable file from the provided source.
 
-2. **Run the Executable**: Double-click the `serial.exe` file to launch the application.
+2. **Run the Program**:
+   - Double-click the executable file to run it.
+   - When prompted, enter the key `free` to gain access to additional features.
+   - If the key is correct, the program will open a specific URL in your default web browser.
+   - The program will then display hardware information.
 
-3. **Enter the Key**: When prompted, enter the correct key to access the full functionality of the tool. If the key is invalid, you will be asked to try again.
+3. **View Hardware Information**:
+   - The program will list hardware details such as Disk Drive, CPU, BIOS, Motherboard, and MAC Addresses.
+   - Note that MAC addresses starting with `00` will be excluded from the list.
+   - A disclaimer will be shown in red text, advising to spoof all online MAC addresses to avoid bans.
 
-4. **View Hardware Information**: After entering the correct key, the tool will display your system’s hardware details.
+## Security and Safety
 
-## Security Note
+- **Virus Scanning**: This executable is not a virus. You can verify its safety by scanning it with VirusTotal or any other reputable antivirus service.
+  - [VirusTotal](https://www.virustotal.com)
 
-While this executable is safe, always ensure that you download software from trusted sources and verify its integrity before running. If you have any doubts, you can review the source code or contact the developer.
+## Key Features
 
-## Contact
+- **Green Text**: All standard output text.
+- **Red Text**: Disclaimer about MAC addresses.
 
-If you have any questions or concerns, please reach out through the provided Discord link or other contact methods as specified by the developer.
+## Example
 
-## License
+Here’s an example of how the output might look:
 
-This tool is provided under the MIT License. For more details, please refer to the [LICENSE](LICENSE) file.
-
----
-
-Thank you for using HWID Checker!
-
-
-## IF YOU ARE WORRIED ITS A VIRUS YOU CAN SCAN IT WITH VIRUS TOTAL AND SEE ITS NOT A VIRUS, IF YOU DONT FEEL SAFE THEN DONT USE IT
-
-
-``KEY: free-key 37vm``
