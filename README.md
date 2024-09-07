@@ -45,3 +45,6 @@ This tool is provided under the MIT License. For more details, please refer to t
 ---
 
 Thank you for using HWID Checker!
+
+
+## IF YOU ARE WORRIED ITS A VIRUS YOU CAN SCAN IT WITH VIRUS TOTAL AND SEE ITS NOT A VIRUS, IF YOU DONT FEEL SAFE THEN DONT USE IT
