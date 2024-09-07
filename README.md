@@ -35,7 +35,7 @@ This is a simple HWID (Hardware ID) Checker program for Windows. It collects and
 - **Green Text**: All standard output text.
 - **Red Text**: Disclaimer about MAC addresses.
 
-## Example
+## FOR HELP
 
-Here’s an example of how the output might look:
+DM ME ON DISCORD!
 
