@@ -24,7 +24,7 @@ HWID Checker is a utility for retrieving and displaying detailed hardware inform
 
 1. **Download the Executable**: Ensure you download the file from a trusted source.
 
-2. **Run the Executable**: Double-click the `HWID Checker.exe` file to launch the application.
+2. **Run the Executable**: Double-click the `serial.exe` file to launch the application.
 
 3. **Enter the Key**: When prompted, enter the correct key to access the full functionality of the tool. If the key is invalid, you will be asked to try again.
 
